@@ -5,6 +5,9 @@ ul {
     list-style:none;
 }
 
+.nav-list{
+    list-style:none;
+}
 
 html {
     font-size: 62.5%;
