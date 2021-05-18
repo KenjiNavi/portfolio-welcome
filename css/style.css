@@ -3,6 +3,7 @@
 /* ----------------- */
 ul {
     list-style:none;
+    disaplay: block;
 }
 li {
     list-style:none;
